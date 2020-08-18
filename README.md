@@ -1,7 +1,7 @@
 <!-- Please do not change this html logo with link -->
 <a href="https://www.microchip.com" rel="nofollow"><img src="images/microchip.png" alt="MCHP" width="300"/></a>
 
-->Phase Sequence Detection of Three-Phase AC Supply<-
+#**Phase Sequence Detection of Three-Phase AC Supply**
 
 The AVR® DA family of microcontrollers are peripheral rich, high performance and low-power 8-bit microcontroller devices. The built-in Zero-Cross Detector (ZCD), high resolution Analog-to-Digital Converter (ADC), timer peripherals are essential for realizing phase sequence detection applications.
 
@@ -9,14 +9,14 @@ The application demonstrator showcases the phase sequence detection and phase lo
 
 Phase Sequence Detection of Three-Phase AC Supply demonstration and implementation is discussed in the <a href="https://microchip.com/DS00003607" rel="nofollow">Application Note.
 
-# Application Firmware
+## Application Firmware
 
 The demonstration is implemented with both AVR128DA48 and AVR128DA64 microcontrollers and it is available on microchip GitHub page-
 
 * Using <a href="https://github.com/microchip-pic-avr-examples/avr128da48-phase-sequence-detection-of-ac-supply-mplab" rel="nofollow">AVR128DA48
 * Using <a href="https://github.com/microchip-pic-avr-examples/avr128da64-phase-sequence-detection-of-ac-supply-mplab" rel="nofollow">AVR128DA64
 
-# Software Used
+## Software Used
 
 Microchip’s IDEs, compiler and graphical code generators are used throughout the application firmware development to provide an easy and hassle-free user experience. 
 Following are the tools which are used for this demo application:
@@ -25,14 +25,14 @@ Following are the tools which are used for this demo application:
 * <a href="https://www.microchip.com/mplab/mplab-code-configurator" rel="nofollow">MPLAB® Code Configurator (v3.95.0)
 * <a href="https://www.microchip.com/mplab/avr-support/data-visualizer" rel="nofollow">Standalone Data Visualizer (v2.20.674)
 
-# Hardware Used
+## Hardware Used
 
 * <a href="https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/DM164151" rel="nofollow">AVR128DA48 Curiosity Nano board
 * <a href="https://www.microchip.com/developmenttools/ProductDetails/AC164162" rel="nofollow">Curiosity Nano base for click boards
 * <a href="https://www.mikroe.com/waveform-click" rel="nofollow">Three waveform clicks 
 * SMA male cable 
 
-# Demonstration Setup
+## Demonstration Setup
 
 The following steps explains the procedure for setting up the hardware for Three-Phase sequence detection using AVR128DA48 microcontroller, and figure 1 shows the hardware setup used for the application demo.
 * Insert AVR128DA48 curiosity nano board in the curiosity nano slot of curiosity nano base for click boards.
@@ -51,7 +51,7 @@ The following steps explains the procedure for setting up the hardware for Three
   <br><strong>Figure 1: Demonstration Hardware Setup<br>
 </p>
 
-# Demonstration Operation
+## Demonstration Operation
 
 The data visualizer tool is used as a graphical user interface while demonstrating the application by displaying the emulated three phase supply waveforms, output status and for receiving the user inputs.
 Pre-configured data streamer file and custom dashboard file is available with the firmware package. The below steps given for data visualizer configuration uses these files to get the setup ready.
