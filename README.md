@@ -1,6 +1,8 @@
 <!-- Please do not change this html logo with link -->
 <a href="https://www.microchip.com" rel="nofollow"><img src="images/microchip.png" alt="MCHP" width="300"/></a>
 
+#                                         Phase Sequence Detection of Three-Phase AC Supply
+
 The AVR® DA family of microcontrollers are peripheral rich, high performance and low-power 8-bit microcontroller devices. The built-in Zero-Cross Detector (ZCD), high resolution Analog-to-Digital Converter (ADC), timer peripherals are essential for realizing phase sequence detection applications.
 
 The application demonstrator showcases the phase sequence detection and phase loss detection on emulated three phase AC supply using AVR128DA48 microcontroller.
@@ -9,7 +11,7 @@ Phase Sequence Detection of Three-Phase AC Supply demonstration and implementati
 
 # Application Firmware
 
-The demonstration is implemented in both AVR128DA48 and AVR128DA64 microcontroller and it is available in microchip GitHub page-
+The demonstration is implemented with both AVR128DA48 and AVR128DA64 microcontrollers and it is available on microchip GitHub page-
 
 * Using <a href="https://github.com/microchip-pic-avr-examples/avr128da48-phase-sequence-detection-of-ac-supply-mplab" rel="nofollow">AVR128DA48
 * Using <a href="https://github.com/microchip-pic-avr-examples/avr128da64-phase-sequence-detection-of-ac-supply-mplab" rel="nofollow">AVR128DA64
@@ -34,7 +36,9 @@ Following are the tools which are used for this demo application:
 
 The following steps explains the procedure for setting up the hardware for Three-Phase sequence detection using AVR128DA48 microcontroller, and figure 1 shows the hardware setup used for the application demo.
 * Insert AVR128DA48 curiosity nano board in the curiosity nano slot of curiosity nano base for click boards.
+
 **Note:** For proper orientation while inserting the curiosity nano board, refer the marking on curiosity nano base board.
+
 * Insert three waveform clicks in the three mikroBUS slots available on Curiosity nano base board.
 * Connect SMA output of the waveform clicks to the respective microcontroller I/O pins using SMA connectors. Refer Application Note section 3 for more information about microcontroller I/O pins.  
 * Detach waveform click 2 OEN pin from mikroBUS slot2 PWM2 pin.
