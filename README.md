@@ -39,7 +39,7 @@ Following are the tools which are used for this demo application:
 The following steps explains the procedure for setting up the hardware for Three-Phase sequence detection using AVR128DA48 microcontroller, and figure 1 shows the hardware setup used for the application demo.
 * Insert AVR128DA48 curiosity nano board in the curiosity nano slot of curiosity nano base for click boards.
 
-**Note:** For proper orientation while inserting the curiosity nano board, refer the marking on curiosity nano base board.
+  **Note:** For proper orientation while inserting the curiosity nano board, refer the marking on curiosity nano base board.
 
 * Insert three waveform clicks in the three mikroBUS slots available on Curiosity nano base board.
 * Connect SMA output of the waveform clicks to the respective microcontroller I/O pins using SMA connectors. Refer Application Note section 3 for more information about microcontroller I/O pins.  
@@ -66,9 +66,10 @@ Here is the list of Data Visualizer modules used for Demonstration –
   * Element Signal
   * Radio Group
 * Data Streamer (Data Streamer file is given for the demonstration)  
-Refer Data Visualizer User Guide for more information about <a href="http://ww1.microchip.com/downloads/Secure/en/DeviceDoc/40001903B.pdf" rel="nofollow">Data Visualizer. 
 
+Refer Data Visualizer User Guide for more information about <a href="http://ww1.microchip.com/downloads/Secure/en/DeviceDoc/40001903B.pdf" rel="nofollow">Data Visualizer. 
 The demo uses an emulated three-phase AC supply to showcase the essential features of the application. To emulate the AC power supply three waveform clicks are used in the application.
+
 
 ## DashBoard User Inputs and Output Indicators  
 
@@ -90,6 +91,7 @@ The Data Visualizer custom dashboard is customized for this application, user in
 -	Operating Freq (Hz)
 
 Figure 2 shows the Data Visualizer custom dashboard and input,output elements.
+
 
 ## Demo Operation
 
