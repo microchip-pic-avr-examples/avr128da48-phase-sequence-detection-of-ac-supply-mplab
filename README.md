@@ -74,7 +74,7 @@ Refer Data Visualizer User Guide for more information about <a href="http://ww1.
 The demo uses an emulated three-phase AC supply to showcase the essential features of the application. To emulate the AC power supply three waveform clicks are used in the application.
 
 
-## Dashboard User Inputs and Output Indicators  
+## Custom Dashboard:User Inputs and Output Indicators  
 
 The Data Visualizer custom dashboard is customized for this application, user input and output elements are listed below:     
 
