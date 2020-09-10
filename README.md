@@ -69,7 +69,7 @@ Here is the list of Data Visualizer modules used for Demonstration –
   * Radio Group
 * Data Streamer (Data Streamer file is given for the demonstration)  
 
-Refer Data Visualizer User Guide for more information about <a href="http://ww1.microchip.com/downloads/Secure/en/DeviceDoc/40001903B.pdf" rel="nofollow">Data Visualizer.</a> 
+Refer Data Visualizer User Guide for more information about <a href="http://ww1.microchip.com/downloads/Secure/en/DeviceDoc/40001903B.pdf" rel="nofollow">Data Visualizer</a>. 
 
 The demo uses an emulated three-phase AC supply to showcase the essential features of the application. To emulate the AC power supply three waveform clicks are used in the application.
 
