@@ -5,26 +5,26 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-phase-sequence-detection-of-ac-supply-mplab",
         "version": "1.0.0",
-        "displayName": "Phase Sequence Detection of AC Supply using AVR128DA48(MPLAB X Project)",
+        "displayName": "Phase Sequence Detection of AC Supply using AVR128DA48 Microcontroller(MPLAB X Project)",
         "projectName": "avr128da48-phase-sequence-detection-of-ac-supply-mplab",
-        "shortDescription": "This application note describes the implementation of a phase sequence and phase loss detection system for a three-phase AC supply and demonstrates the detection of phase sequence and phase loss faults on emulated three phaseAC systems supply using the AVR128DA48 microcontroller",
+        "shortDescription": "This application note describes the implementation of a phase sequence and phase loss detection system for a three-phase AC supply and demonstrates the detection of phase sequence and phase loss faults on emulated three phase AC supply using the AVR128DA48 microcontroller",
         "ide": {
-            "name": "MPLAB",
+            "name": "MPLAB X IDE",
             "semverRange": ">=5.40"
         },
         "compiler": [
 			{
 				"name": "XC8",
-				"semverRange": "^2.20"
+				"semverRange": "^2.30"
 			}
 		],
         "dfp": {
             "name": "AVR-Dx_DFP",
-            "semverRange": "^1.4.75"
+            "semverRange": "^1.5.82"
         },
         "configurator": {
             "name": "MCC",
-            "semverRange": ">=3.95.0"
+            "semverRange": ">=4.0.1"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -40,7 +40,7 @@
         "subcategories": [
             "",
             [
-               "Peripherals", "TCA"
+               "Peripherals", "TMR1"
             ],
             [
                "Peripherals", "SPI"
@@ -59,23 +59,24 @@
             ]	
         ],
         "peripherals": [
-            "TCA","SPI","USART","ZCD","ADC","VREF"
+            "TMR1","SPI","USART","ZCD","ADC","VREF"
         ],
         "keywords": [
-            "AVR128DA48",
+            "Avr128da48",
             "AVR DA",
 			"MCC",
-			"MPLAB",
+			"Mplab x",
 			"Phase Sequence Detection",
 			"Three-Phase AC Supply",
 			"Phase Loss",
 			"Phase Reversal",
 			"Phase Detection",
 			"Zero Phase",
-			"RMS Voltage",
+			"Rms Voltage",
 			"Root mean square",
 			"Data Visualizer",
-			"Three-Phase Sequence Detection"
+			"Three-Phase Sequence Detection",
+			"Timer/Counter"
         ],
 		"additionalData": {
 			"longDescription": {
