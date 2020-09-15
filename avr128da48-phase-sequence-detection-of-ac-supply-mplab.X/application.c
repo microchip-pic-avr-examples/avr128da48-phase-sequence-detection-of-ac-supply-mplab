@@ -6,6 +6,7 @@
  */ 
 #include <stdio.h>
 #include <string.h>
+#include "mcc_generated_files/config/clock_config.h"
 #include <util/delay.h>
 #include "mcc_generated_files/include/adc0.h"
 #include "application.h"
