@@ -55,7 +55,7 @@ ISR(ZCD1_ZCD_vect)
  if (ZCD_Int_flag[0] == 1)
     {
 	    ZCD_Int_flag[0] = 0;
-	    timerCounterValuegit  = TCA0_SINGLE_CNT; 
+	    timerCounterValue  = TCA0_SINGLE_CNT; 
 	}
  ZCD_Int_flag[1] = 1;
  PhaseLossFlag[1] = 1;
