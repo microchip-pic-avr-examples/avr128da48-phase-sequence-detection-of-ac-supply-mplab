@@ -62,6 +62,7 @@
             "TCA","SPI","USART","ZCD","ADC","VREF"
         ],
         "keywords": [
+		    "Curiosity Nano",
 			"Phase Sequence Detection",
 			"Three-Phase AC Supply",
 			"Phase Loss",
