@@ -51,8 +51,8 @@ The following steps explains the procedure for setting up the hardware for Three
 * Connect the curiosity nano board to a host computer (PC) using the standard micro B USB cable.
 
 <p align="center">
-  <img width=750 height=auto src="images/DemoSetup.png">
-  <br><strong>Figure 1: Demonstration Hardware Setup<br>
+  <img width=750 height=auto src="images/DemoSetup.png"></a>
+  <br>Figure 1: Demonstration Hardware Setup<br>
 </p>
 
 
@@ -115,6 +115,6 @@ Figure 2 shows the Data Visualizer custom dashboard and input,output elements.
 Figure 2 shows the Data Visualizer Dashboard for Phase Sequence Detection for Three-phase AC Supply.
 
 <p align="center">
-  <img width=750 height=auto src="images/DashBoard.png">
-  <br><strong>Figure 2: Data Visualizer Dashboard<br>
+  <img width=750 height=auto src="images/DashBoard.png"></a>
+  <br>Figure 2: Data Visualizer Dashboard<br>
 </p>

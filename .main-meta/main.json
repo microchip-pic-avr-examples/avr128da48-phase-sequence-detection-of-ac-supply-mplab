@@ -4,18 +4,18 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-phase-sequence-detection-of-ac-supply-mplab",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "displayName": "Phase Sequence Detection of AC Supply using AVR128DA48 Microcontroller(MPLAB X Project)",
         "projectName": "avr128da48-phase-sequence-detection-of-ac-supply-mplab",
         "shortDescription": "This application note describes the implementation of a phase sequence and phase loss detection system for a three-phase AC supply and demonstrates the detection of phase sequence and phase loss faults on emulated three phase AC supply using the AVR128DA48 microcontroller",
         "ide": {
-            "name": "MPLAB X IDE",
-            "semverRange": ">=5.40"
+            "name": "MPLAB X",
+            "semverRange": ">=5.45.0"
         },
         "compiler": [
 			{
 				"name": "XC8",
-				"semverRange": "^2.30"
+				"semverRange": "^2.30.0"
 			}
 		],
         "dfp": {
@@ -38,7 +38,7 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "MCC",
+            "Functional Safety",
             [
                "Peripherals", "TCA"
             ],
@@ -62,10 +62,6 @@
             "TCA","SPI","USART","ZCD","ADC","VREF"
         ],
         "keywords": [
-            "AVR128DA48",
-            "AVR DA",
-			"MCC",
-			"MPLAB X",
 			"Phase Sequence Detection",
 			"Three-Phase AC Supply",
 			"Phase Loss",
@@ -73,10 +69,7 @@
 			"Phase Detection",
 			"Zero Phase",
 			"Rms Voltage",
-			"Root mean square",
-			"Data Visualizer",
-			"Three-Phase Sequence Detection",
-			"Timer/Counter"
+			"Data Visualizer"
         ],
 		"additionalData": {
 			"longDescription": {
