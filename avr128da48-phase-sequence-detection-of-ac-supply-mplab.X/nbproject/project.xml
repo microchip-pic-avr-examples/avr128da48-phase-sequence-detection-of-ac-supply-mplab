@@ -4,7 +4,7 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
             <name>avr128da48-phase-sequence-detection-of-ac-supply-mplab</name>
-            <creation-uuid>5673f056-050f-4351-b024-3889611d0907</creation-uuid>
+            <creation-uuid>3f187e18-0f18-4f81-8aa2-7e7001547064</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
             <cpp-extensions/>
@@ -17,15 +17,7 @@
             </sourceRootList>
             <confList>
                 <confElem>
-                    <name>free</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
                     <name>default</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
-                    <name>pro</name>
                     <type>2</type>
                 </confElem>
             </confList>

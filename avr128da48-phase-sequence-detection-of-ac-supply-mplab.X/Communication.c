@@ -6,8 +6,8 @@
  */ 
 
 #include "Communication.h"
-#include "mcc_generated_files/include/spi0.h"
-#include "mcc_generated_files/include/pin_manager.h"
+#include "mcc_generated_files/spi/spi0.h"
+#include "mcc_generated_files/system/pins.h"
 
 static void AD9833_FSN1_set_level(uint8_t level);
 static void AD9833_FSN2_set_level(uint8_t level);
@@ -44,7 +44,7 @@ unsigned char SPI_Write(unsigned char* data,
                         unsigned char bytesNumber)
 {
    
-    SPI0_WriteBlock(data,bytesNumber);
+    SPI0_BufferWrite(data,bytesNumber);
    	 return 0;
 }
 
@@ -60,7 +60,7 @@ unsigned char SPI_Write(unsigned char* data,
 unsigned char SPI_Read(unsigned char* data,
                        unsigned char bytesNumber)
 {
-       SPI0_ReadBlock(data,bytesNumber);
+       SPI0_BufferRead(data,bytesNumber);
 	   return 0;
 }
 

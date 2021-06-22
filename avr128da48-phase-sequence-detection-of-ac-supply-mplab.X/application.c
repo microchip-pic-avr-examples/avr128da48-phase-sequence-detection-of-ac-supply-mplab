@@ -6,15 +6,15 @@
  */ 
 #include <stdio.h>
 #include <string.h>
-#include "mcc_generated_files/config/clock_config.h"
+#include "mcc_generated_files/system/clock.h"
 #include <util/delay.h>
-#include "mcc_generated_files/include/adc0.h"
+#include "mcc_generated_files/adc/adc0.h"
 #include "application.h"
 #include "dataVisualizer.h"
-#include "mcc_generated_files/include/usart1.h"
+#include "mcc_generated_files/uart/usart1.h"
 #include "AD9833.h"
 #include "AD5227.h"
-#include "mcc_generated_files/include/pin_manager.h"
+#include "mcc_generated_files/system/pins.h"
 
 WfclkSel_st wfclkSel_st;                 //waveform click functional selection 
 

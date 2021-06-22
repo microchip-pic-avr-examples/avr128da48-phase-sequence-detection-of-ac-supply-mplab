@@ -6,7 +6,7 @@
  */ 
 
 #include "AD5227.h"
-#include "mcc_generated_files/config/clock_config.h"
+#include "mcc_generated_files/system/clock.h"
 #include <util/delay.h>
 #include "Communication.h"
 

@@ -5,7 +5,7 @@
  *  Author: I20946
  */ 
 
-#include "mcc_generated_files/include/adc0.h"
+#include "mcc_generated_files/adc/adc0.h"
 
 #ifndef APPLICATION_H_
 #define APPLICATION_H_

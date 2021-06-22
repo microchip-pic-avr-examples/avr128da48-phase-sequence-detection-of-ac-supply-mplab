@@ -23,10 +23,10 @@ The demonstration is implemented with both AVR128DA48 and AVR128DA64 microcontro
 
 Microchip’s IDEs, compiler and graphical code generators are used throughout the application firmware development to provide an easy and hassle-free user experience. 
 Following are the tools which are used for this demo application:
-* <a href="https://www.microchip.com/mplab/mplab-x-ide" rel="nofollow">MPLAB X (v5.40)</a>
-* <a href="https://www.microchip.com/mplab/compilers" rel="nofollow">XC8 compiler (v2.30)</a>
-* <a href="https://www.microchip.com/mplab/mplab-code-configurator" rel="nofollow">MPLAB® Code Configurator (v4.0.1)</a>
-* <a href="https://packs.download.microchip.com" rel="nofollow">DFP Pack (v1.5.82)</a>
+* <a href="https://www.microchip.com/mplab/mplab-x-ide" rel="nofollow">MPLAB X (v5.50)</a>
+* <a href="https://www.microchip.com/mplab/compilers" rel="nofollow">XC8 compiler (v2.32)</a>
+* <a href="https://www.microchip.com/mplab/mplab-code-configurator" rel="nofollow">MPLAB® Code Configurator (v4.1.0)</a>
+* <a href="https://packs.download.microchip.com" rel="nofollow">DFP Pack (v1.8.112)</a>
 * <a href="https://www.microchip.com/mplab/avr-support/data-visualizer" rel="nofollow">Standalone Data Visualizer (v2.20.674)</a>
 
 ## Hardware Used
@@ -51,8 +51,8 @@ The following steps explains the procedure for setting up the hardware for Three
 * Connect the curiosity nano board to a host computer (PC) using the standard micro B USB cable.
 
 <p align="center">
-  <img width=750 height=auto src="images/DemoSetup.png"></a>
-  <br>Figure 1: Demonstration Hardware Setup<br>
+  <img width=750 height=auto src="images/DemoSetup.png">
+  <br><strong>Figure 1: Demonstration Hardware Setup<br>
 </p>
 
 
@@ -115,6 +115,6 @@ Figure 2 shows the Data Visualizer custom dashboard and input,output elements.
 Figure 2 shows the Data Visualizer Dashboard for Phase Sequence Detection for Three-phase AC Supply.
 
 <p align="center">
-  <img width=750 height=auto src="images/DashBoard.png"></a>
-  <br>Figure 2: Data Visualizer Dashboard<br>
+  <img width=750 height=auto src="images/DashBoard.png">
+  <br><strong>Figure 2: Data Visualizer Dashboard<br>
 </p>

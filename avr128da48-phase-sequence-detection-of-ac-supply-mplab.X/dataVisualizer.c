@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include "dataVisualizer.h"
 #include "application.h"
-#include "mcc_generated_files/include/usart1.h"
+#include "mcc_generated_files/uart/usart1.h"
 
 extern float Vrms[3];
 extern uint8_t freq_sel;
@@ -65,6 +65,7 @@ static void sendString(uint8_t *data,uint16_t len)
 	uint16_t  i = 0;
 	for (i=0;i<=len;i++)
 	{
+      while(!USART1_IsTxReady());  
       USART1_Write(*data++);
 	}
     
