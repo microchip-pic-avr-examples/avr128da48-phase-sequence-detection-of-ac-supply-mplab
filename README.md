@@ -52,7 +52,7 @@ The following steps explains the procedure for setting up the hardware for Three
 
 <p align="center">
   <img width=750 height=auto src="images/DemoSetup.png">
-  <br><strong>Figure 1: Demonstration Hardware Setup<br>
+  <br>Figure 1: Demonstration Hardware Setup<br>
 </p>
 
 
@@ -116,5 +116,5 @@ Figure 2 shows the Data Visualizer Dashboard for Phase Sequence Detection for Th
 
 <p align="center">
   <img width=750 height=auto src="images/DashBoard.png">
-  <br><strong>Figure 2: Data Visualizer Dashboard<br>
+  <br>Figure 2: Data Visualizer Dashboard<br>
 </p>
