@@ -6,7 +6,7 @@
 
 The AVR® DA family of microcontrollers are peripheral rich, high performance and low-power 8-bit microcontroller devices. The built-in Zero-Cross Detector (ZCD), high resolution Analog-to-Digital Converter (ADC), timer peripherals are essential for realizing phase sequence detection applications.
 
-The application demonstrator showcases the phase sequence detection and phase loss detection on emulated three phase AC supply using AVR128DA48 microcontroller.
+This application demonstrator developed using MPLAB® X Melody platform. It showcases the phase sequence detection and phase loss detection on emulated three phase AC supply using AVR128DA48 microcontroller.
 
 ## Relevant Application Note  
 Phase Sequence Detection of Three-Phase AC Supply demonstration and implementation is discussed in the <a href="https://microchip.com/DS00003607" rel="nofollow">Phase Sequence Detection of Three-Phase AC Supply Application Note.</a>
@@ -25,7 +25,8 @@ Microchip’s IDEs, compiler and graphical code generators are used throughout t
 Following are the tools which are used for this demo application:
 * <a href="https://www.microchip.com/mplab/mplab-x-ide" rel="nofollow">MPLAB X (v5.50)</a>
 * <a href="https://www.microchip.com/mplab/compilers" rel="nofollow">XC8 compiler (v2.32)</a>
-* <a href="https://www.microchip.com/mplab/mplab-code-configurator" rel="nofollow">MPLAB® Code Configurator (v4.1.0)</a>
+* <a href="https://www.microchip.com/mplab/mplab-code-configurator" rel="nofollow">MPLAB® Code Configurator (MCC)(v4.1.0)</a>
+* <a href="https://www.microchip.com/mplab/mplab-code-configurator" rel="nofollow">MPLAB® Melody Library (v1.84.4)</a>
 * <a href="https://packs.download.microchip.com" rel="nofollow">DFP Pack (v1.8.112)</a>
 * <a href="https://www.microchip.com/mplab/avr-support/data-visualizer" rel="nofollow">Standalone Data Visualizer (v2.20.674)</a>
 
