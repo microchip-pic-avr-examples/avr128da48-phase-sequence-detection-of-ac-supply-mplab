@@ -15,8 +15,8 @@ Phase Sequence Detection of Three-Phase AC Supply demonstration and implementati
 
 The demonstration is implemented with both AVR128DA48 and AVR128DA64 microcontrollers and it is available on microchip GitHub page-
 
-* <a href="https://github.com/microchip-pic-avr-examples/avr128da48-phase-sequence-detection-of-ac-supply-studio" rel="nofollow">AVR128DA48 Phase Sequence Detection application code example using Atmel Studio</a>
-* <a href="https://github.com/microchip-pic-avr-examples/avr128da64-phase-sequence-detection-of-ac-supply-studio" rel="nofollow">AVR128DA64 Phase Sequence Detection application code example using Atmel studio</a>
+* <a href="https://github.com/microchip-pic-avr-examples/avr128da48-phase-sequence-detection-of-ac-supply-studio" rel="nofollow">AVR128DA48 Phase Sequence Detection application code example using studio</a>
+* <a href="https://github.com/microchip-pic-avr-examples/avr128da64-phase-sequence-detection-of-ac-supply-studio" rel="nofollow">AVR128DA64 Phase Sequence Detection application code example using studio</a>
 * <a href="https://github.com/microchip-pic-avr-examples/avr128da64-phase-sequence-detection-of-ac-supply-mplab" rel="nofollow">AVR128DA64 Phase Sequence Detection application code example using mplab</a>
 
 ## Software Used

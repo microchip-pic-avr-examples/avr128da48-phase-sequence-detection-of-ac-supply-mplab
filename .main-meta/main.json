@@ -62,7 +62,6 @@
             "TCA","SPI","USART","ZCD","ADC","VREF"
         ],
         "keywords": [
-            "Signal Conditioning & Measurement",
 			"Curiosity Nano",
 			"Voltage Detectors",
 			"Industrial",
