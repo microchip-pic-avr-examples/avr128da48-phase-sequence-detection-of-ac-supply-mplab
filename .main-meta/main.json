@@ -38,7 +38,6 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "MCC",
             [
                "Peripherals", "TCA"
             ],
@@ -63,7 +62,7 @@
         ],
         "keywords": [
 			"Curiosity Nano",
-			"Voltage Detectors",
+			"Voltage Detector",
 			"Industrial",
 			"Three-Phase",
 			"AC",
