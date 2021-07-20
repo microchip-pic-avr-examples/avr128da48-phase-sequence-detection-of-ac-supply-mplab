@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-phase-sequence-detection-of-ac-supply-mplab",
-        "version": "2.0.0",
+        "version": "2.0.1",
         "displayName": "Phase Sequence Detection of AC Supply using AVR128DA48 Microcontroller(MPLAB X Project)",
         "projectName": "avr128da48-phase-sequence-detection-of-ac-supply-mplab",
         "shortDescription": "This application demonstrator developed using MPLAB® X Melody platform. It showcases the phase sequence detection and phase loss detection on emulated three phase AC supply using AVR128DA48 microcontroller",
@@ -65,7 +65,7 @@
 			"Voltage Detector",
 			"Industrial",
 			"Three-Phase",
-			"AC",
+			"AC Voltage",
 			"Melody"
         ],
 		"additionalData": {
