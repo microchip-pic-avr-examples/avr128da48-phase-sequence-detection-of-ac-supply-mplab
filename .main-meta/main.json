@@ -20,7 +20,7 @@
 		],
         "dfp": {
             "name": "AVR-Dx_DFP",
-            "semverRange": "^1.8.112"
+            "semverRange": "^v1.9.119 "
         },
         "configurator": {
             "name": "MCC",
