@@ -24,7 +24,7 @@ The demonstration is implemented with both AVR128DA48 and AVR128DA64 microcontro
 Microchip’s IDEs, compiler and graphical code generators are used throughout the application firmware development to provide an easy and hassle-free user experience. 
 Following are the tools which are used for this demo application:
 * MPLAB® X IDE [v5.50.0 or newer](https://www.microchip.com/mplab/mplab-x-ide "v5.50.0 or newer")
-* XC8 compiler [v2.32.0 or newer](https://www.microchip.com/mplab/compilers "v2.32.0) or newer")
+* XC8 compiler [v2.32.0 or newer](https://www.microchip.com/mplab/compilers "v2.32.0 or newer")
 * MPLAB® Code Configurator(MCC) [v4.1.0 or newer](https://www.microchip.com/mplab/mplab-code-configurator "v4.1.0 or newer")
 * MPLAB® Melody Library [v1.84.3 or newer](https://www.microchip.com/mplab/mplab-code-configurator "v1.84.3 or newer")
 * Microchip AVR-Dx Series Device Support pack [v1.9.119 or newer device pack](https://packs.download.microchip.com "v1.9.119 or newer device pack")
