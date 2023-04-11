@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/avr128da48-phase-sequence-detection-of-ac-supply-mplab.X.debug.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>131072</length>                 
+      <used>17625</used>                     
+      <free>113447</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>198</used>                     
+      <free>16186</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
