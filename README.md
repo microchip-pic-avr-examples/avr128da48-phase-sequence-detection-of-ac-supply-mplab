@@ -23,12 +23,17 @@ The demonstration is implemented with both AVR128DA48 and AVR128DA64 microcontro
 
 Microchip’s IDEs, compiler and graphical code generators are used throughout the application firmware development to provide an easy and hassle-free user experience. 
 Following are the tools which are used for this demo application:
-* MPLAB® X IDE [v5.50.0 or newer](https://www.microchip.com/mplab/mplab-x-ide "v5.50.0 or newer")
-* XC8 compiler [v2.32.0 or newer](https://www.microchip.com/mplab/compilers "v2.32.0 or newer")
-* MPLAB® Code Configurator(MCC) [v4.1.0 or newer](https://www.microchip.com/mplab/mplab-code-configurator "v4.1.0 or newer")
-* MPLAB® Melody Library [v1.84.3 or newer](https://www.microchip.com/mplab/mplab-code-configurator "v1.84.3 or newer")
-* Microchip AVR-Dx Series Device Support pack [v1.9.119 or newer device pack](https://packs.download.microchip.com "v1.9.119 or newer device pack")
+* MPLAB® X IDE [v6.05 or newer](https://www.microchip.com/mplab/mplab-x-ide "v6.05 or newer")
+* XC8 compiler [v2.41 or newer](https://www.microchip.com/mplab/compilers "v2.41 or newer")
+* MPLAB® Code Configurator(MCC) [v5.3.0 or newer](https://www.microchip.com/mplab/mplab-code-configurator "v5.3.0 or newer")
+* MPLAB® Code Configurator(MCC) Core v5.5.0 or newer
+* Microchip AVR-Dx Series Device Support pack [v2.3.272 or newer device pack](https://packs.download.microchip.com "v2.3.272 or newer device pack")
 * Data Visualizer [v2.20.674 or newer](https://www.microchip.com/mplab/avr-support/data-visualizer "v2.20.674 or newer")
+* ADC Driver v4.2.4
+* SPI Driver v4.1.11
+* TCA Driver v6.0.8
+* UART Driver v1.8.0
+* ZCD Driver v4.0.4
 
 ## Hardware Used
 
